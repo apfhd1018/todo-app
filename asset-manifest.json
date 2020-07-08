@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/apfhd1018/todo-app.git/static/css/main.9d517105.chunk.css",
+    "main.js": "/apfhd1018/todo-app.git/static/js/main.63bc6064.chunk.js",
+    "main.js.map": "/apfhd1018/todo-app.git/static/js/main.63bc6064.chunk.js.map",
+    "runtime-main.js": "/apfhd1018/todo-app.git/static/js/runtime-main.d98526db.js",
+    "runtime-main.js.map": "/apfhd1018/todo-app.git/static/js/runtime-main.d98526db.js.map",
+    "static/js/2.b124826e.chunk.js": "/apfhd1018/todo-app.git/static/js/2.b124826e.chunk.js",
+    "static/js/2.b124826e.chunk.js.map": "/apfhd1018/todo-app.git/static/js/2.b124826e.chunk.js.map",
+    "index.html": "/apfhd1018/todo-app.git/index.html",
+    "precache-manifest.6f55846461970e40954fb288ee828a1b.js": "/apfhd1018/todo-app.git/precache-manifest.6f55846461970e40954fb288ee828a1b.js",
+    "service-worker.js": "/apfhd1018/todo-app.git/service-worker.js",
+    "static/css/main.9d517105.chunk.css.map": "/apfhd1018/todo-app.git/static/css/main.9d517105.chunk.css.map",
+    "static/js/2.b124826e.chunk.js.LICENSE.txt": "/apfhd1018/todo-app.git/static/js/2.b124826e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d98526db.js",
+    "static/js/2.b124826e.chunk.js",
+    "static/css/main.9d517105.chunk.css",
+    "static/js/main.63bc6064.chunk.js"
+  ]
+}
